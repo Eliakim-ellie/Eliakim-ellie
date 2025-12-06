@@ -1,9 +1,12 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Ellie</h1>
+
+
+<h1 align="center">Hi 👋,,<br/> I'm Walela Eliakim</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&width=500&lines=Software+Engineer;Front-End+Developer)
+
 <p align="center">
+
+  
   <em>Front-End Developer | React & Tailwind Enthusiast | Building clean, responsive, user-focused web apps</em>
 </p>
 
