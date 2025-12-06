@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋,,<br/> I'm Walela Eliakim</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&width=500&lines=Software+Engineer;Front-End+Developer" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1abc9c&center=true&width=500&lines=Software+Engineer;Front-End+Developer" alt="Typing SVG">
+
 
 
 
