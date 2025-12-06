@@ -47,26 +47,23 @@
 ### 1. Card Quest: Battle for the Kingdom
 - **Tech:** React & JavaScript  
 - Fantasy-themed card game with **interactive gameplay and animations**  
-- [GitHub Repo](https://github.com/Eliakim-ellie/card-quest)
+- [GitHub Repo](https://github.com/Eliakim-ellie/card-battle-game)
 
 ### 2. Personal Portfolio Website
 - Showcases projects, skills & achievements  
 - Built with **React, Tailwind, Vercel**  
-- [Live Demo](https://walelaeliakim.netlify.app) | [GitHub Repo](https://github.com/Eliakim-ellie/portfolio)
+- [Live Demo](https://walelaeliakim.netlify.app) | [GitHub Repo](https://github.com/Eliakim-ellie/my-website)
 
-### 3. Front-End Mini Projects
-- Includes **calculators, to-do apps, UI experiments**  
-- Focus on **responsive design & clean UI**  
-- [GitHub Repo](https://github.com/Eliakim-ellie/front-end-projects)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliakim-ellie&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliakim-ellie&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eliakim-ellie&show_icons=true&count_private=true&theme=merko" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliakim-ellie&layout=compact&theme=merko" width="48%"/>
 </p>
+
 
 ---
 
